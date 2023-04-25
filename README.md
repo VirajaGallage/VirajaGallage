@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VirajaGallage
 - 👀 I’m interested in Software Development Processors
-- 🌱 I’m currently Following Software Engineering Degree programme from University of Plymouth
+- 🌱 I’m currently reading for MSc. Advanced Computer Science at Northumbria University Newcastle
 - 💞️ I’m looking to collaborate on Software Development 
 - 📫 How to reach me virajagallage@gmail.com
 
